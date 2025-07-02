@@ -3,7 +3,7 @@
 
 *This is prototype white version.*
 
-Code should work with CircuitPython 7.3.3. https://circuitpython.org/board/raspberry_pi_pico/
+Code should work with CircuitPython 9.2.8. https://circuitpython.org/board/raspberry_pi_pico/
 
 * mpy files https://circuitpython.org/libraries
 
