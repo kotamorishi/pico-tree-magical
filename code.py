@@ -41,6 +41,7 @@ PURPLE = (180, 0, 255)
 while True:
     pixels.fill(RED)
     pixels.show()
+    
     # Increase or decrease to change the speed of the solid color change.
     time.sleep(1)
     pixels.fill(GREEN)
